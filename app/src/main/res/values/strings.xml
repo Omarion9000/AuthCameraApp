@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AuthCameraApp</string>
+
+    <!-- Google Sign-In -->
+    <string name="default_web_client_id">207342018674-nim5miejbond6oj3503iqh5suh31lub5.apps.googleusercontent.com</string>
+
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">1204568921182653</string>
+    <string name="facebook_client_token">5593a04a278ff797dc07dcb158b8a426</string>
+    <string name="fb_login_protocol_scheme">fb1204568921182653</string>
+</resources>

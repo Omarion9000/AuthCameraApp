@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207342018674",
+    "project_id": "authcameraapp-63657",
+    "storage_bucket": "authcameraapp-63657.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207342018674:android:8b1930e05c1cfab20d22eb",
+        "android_client_info": {
+          "package_name": "com.omarserrano.authcameraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_KPhyvwq_Xv8YyTpnuQpHtpJBLolM6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
